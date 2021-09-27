@@ -29,10 +29,13 @@ bioRxiv. https://www.biorxiv.org/content/10.1101/2021.09.10.459775v1
 In our paper, we tested this cross-modal, self-supervised approach on
 4 datasets. All of these datasets are publicly-available:
 
-ECoG move/rest:
-EEG move/rest:
-ECoG finger flexion:
-EEG balance perturbations:
+ECoG move/rest: https://doi.org/10.6084/m9.figshare.16599782
+
+EEG move/rest: http://bnci-horizon-2020.eu/database/data-sets
+
+ECoG finger flexion: https://searchworks.stanford.edu/view/zk881ps0522
+
+EEG balance perturbations: https://openneuro.org/datasets/ds003739
 
 
 To replicate our findings,
