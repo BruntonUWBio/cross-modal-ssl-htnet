@@ -24,7 +24,7 @@ bioRxiv. https://www.biorxiv.org/content/10.1101/2021.09.10.459775v1
 ```
 
 
-## Replicating our findings
+## Dataset links
 
 In our paper, we tested this cross-modal, self-supervised approach on
 4 datasets. All of these datasets are publicly-available:
@@ -37,6 +37,8 @@ ECoG finger flexion: https://searchworks.stanford.edu/view/zk881ps0522
 
 EEG balance perturbations: https://openneuro.org/datasets/ds003739
 
+
+## Replicating our findings
 
 To replicate our findings,
 
